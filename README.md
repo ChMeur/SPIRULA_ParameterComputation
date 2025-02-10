@@ -1,6 +1,4 @@
 # SPIRULA_ParameterComputation
-=======
-# ParameterComputation
 Python code and Jupyter notebook for computing relevant operational parameters of the "SPiraling Intelligent Robotic Underwater monitoring pLAtform" (SPIRULA).
 
 See more details under:
